@@ -1,8 +1,8 @@
-# robofriends-pwa
-Udemy tutorial - adding PWA capabilities to a react app
+## Testing with react
 
-To run the project:
+Testing statefull component
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Testing containers
+you can install redux-mock-store package to mock stores
+but we can go with simiplicity
+So instead we can create new component with same property
